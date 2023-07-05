@@ -9,6 +9,14 @@ import SwiftUI
 
 struct test_linter {}
 
+func sum(a: Int, b: Int) -> Int {
+    a + b
+}
+
+func sumD(a: Int, b: Int) -> Int {
+    a + b
+}
+
 struct ContentView: View {
     var body: some View {
         VStack {
