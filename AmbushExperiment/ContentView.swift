@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+struct test_linter {}
+
 struct ContentView: View {
     var body: some View {
         VStack {
