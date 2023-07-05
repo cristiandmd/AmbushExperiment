@@ -17,6 +17,10 @@ func sumD(a: Int, b: Int) -> Int {
     a + b
 }
 
+func sumE(a: Int, b: Int) -> Int {
+    a + b
+}
+
 struct ContentView: View {
     var body: some View {
         VStack {
